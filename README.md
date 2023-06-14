@@ -1,0 +1,2 @@
+# SchoolMaps
+tugas informatiko
